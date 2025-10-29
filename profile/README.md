@@ -9,7 +9,3 @@ godot (?) developer for 1 year
 more info on [myst.lat](https://wither.lat)
 
 business emails/dmcas on wither or web ports always go to [hi@myst.lat](mailto:hi@myst.lat)
-
-
-
-https://github-readme-stats.vercel.app/api?username=mysticful&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
