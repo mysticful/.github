@@ -3,8 +3,8 @@ hi, im mysticful ✦
 im the main developer for a website named [wither](https://wither.lat)
 
 modeler (?, i used blender to make roblox game assets) for 2 years
-frontend developer for 1 year
-godot (?) developer for 1 year
+frontend developer for 2 years 
+gdscript developer for 2 years
 
 more info on [myst.lat](https://myst.lat)
 
